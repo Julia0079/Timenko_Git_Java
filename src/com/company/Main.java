@@ -18,7 +18,5 @@ public class Main {
         System.out.println("After change d1: "+ d1);
         System.out.println("b result: "+ b);
         System.out.println("d2 result: "+ d2);
-
-
     }
 }
